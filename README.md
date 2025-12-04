@@ -1,2 +1,2 @@
 # UnscrambleGame
-Unscramble Words Game
+App game using kotlin in android studio
